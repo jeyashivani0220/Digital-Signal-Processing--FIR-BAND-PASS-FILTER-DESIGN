@@ -45,3 +45,6 @@ plot(w/pi,abs(h),'ms');
 
 
 ## RESULT:
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/fd51e2a6-d210-455a-aa9d-e68e45cc9305" />
+
+
